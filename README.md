@@ -3,10 +3,8 @@ int main()
 { 
 int a; 
 long b; 
-// equivalent to
 int b; 
 long long c;
-// equivalent to 
 long long int c; 
 double e; 
 long double f; 
